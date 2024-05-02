@@ -1,0 +1,17 @@
+{
+  "name": "weekday-frontend",
+  "version": "1.0.0",
+  "description": "weekday assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "material",
+    "UI"
+  ],
+  "author": "ajay kandpal",
+  "license": "ISC"
+}
